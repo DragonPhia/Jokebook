@@ -1,0 +1,26 @@
+{
+  "name": "jokebook",
+  "version": "1.0.0",
+  "description": "CSC372 Assignment 6",
+  "main": "seed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonPhia/Jokebook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DragonPhia/Jokebook/issues"
+  },
+  "homepage": "https://github.com/DragonPhia/Jokebook#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "sqlite3": "^5.1.7"
+  }
+}
